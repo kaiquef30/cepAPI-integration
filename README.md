@@ -1,10 +1,10 @@
 # Projeto de Integração com Feign e Consulta de CEP
 
-![Java](https://img.shields.io/badge/Java-11-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen)
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-2.5.4-brightgreen)
-![Feign](https://img.shields.io/badge/Feign-2.5.4-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.4-blue)
+![Feign](https://img.shields.io/badge/Feign-2022.0.4-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.5-blue)
 
 Este projeto demonstra uma integração eficiente entre sistemas utilizando o Spring Boot, Spring Data JPA e Feign para consumir uma API de consulta de CEP. A aplicação utiliza o PostgreSQL como banco de dados para armazenar dados relacionados às consultas de CEP.
 
